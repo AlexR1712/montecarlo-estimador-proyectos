@@ -41,27 +41,27 @@ Son los valores extremos que tiene el intervalo de clase, inferior y superior, e
 > Con la simulación de Montecarlo tal como se conoce es posible probar distintos escenarios posibles, para este proyecto realizado se tomó en cuenta en base a 100 posibles escenarios del futuro basado en los siguientes datos, tiempo mínimo, tiempo máximo, nivel de confianza y costo por hora y considerando que cada uno de estos futuros tiene un 1% de posibilidad de darse.
 
 
-## Recommended IDE Setup
+## Recomendaciones
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
 
-## Customize configuration
+## Configuraciones
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+Ver [Vite Configuration Reference](https://vitejs.dev/config/).
 
-## Project Setup
+## Instalación
 
 ```sh
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+### Compilar y Hot-Reload
 
 ```sh
 npm run dev
 ```
 
-### Compile and Minify for Production
+### Compilar y Minificar para Producción
 
 ```sh
 npm run build
